@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "058ac3c7a33125d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f419d3764254210d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c00981f4aa8be2b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8cb4644f2a4293d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036e317a0b5635d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2ee453f706da5a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd29911474befc91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63b64b7c10a78d79",
+    "type": "split",
+    "children": [
+      {
+        "id": "945e5203bd010662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9c8c0f57a981a42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4684732a668881b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f0452bea905a509",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3a46812ed142f17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f419d3764254210d",
+  "lastOpenFiles": [
+    "src/ui/components/SettingsView/features/ReportErrors.tsx.md",
+    "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
+    "How To Start/Untitled.md",
+    "How To Start/How to Start - Project Structure.md",
+    "How To Start/FAQs.md",
+    "src/ui/components/SettingsView/SettingsView.tsx.md",
+    "src/ui/reducers/isReportEnabled.ts.md",
+    "src/ui/reducers/isFlashFrameEnabled.ts.md",
+    "src/ui/components/Shell/index.js (Shell containing all views).md",
+    "src/ui/components/ServersView/index.js (ServersView).md"
+  ]
+}

@@ -1,0 +1,1 @@
+1. How does previous state persists/loads after the app is closed/reopened...is this managed by react? or redux? or electron? or localstorage?
