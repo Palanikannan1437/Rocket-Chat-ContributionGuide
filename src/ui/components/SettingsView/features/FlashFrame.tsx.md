@@ -7,6 +7,7 @@ The reducer function for `SETTINGS_SET_FLASHFRAME_OPT_IN_CHANGED` is defined in 
 > - For macOS, using App.dock.bounce("critical") should result in app bouncing constantly on the dock.
 
 Reference solution for the bug: 
+
 ```Javascript
 App.on('browser-window-blur', () => {
     console.log('blur..')

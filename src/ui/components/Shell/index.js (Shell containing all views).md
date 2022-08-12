@@ -8,7 +8,7 @@ The Wrapper is a styled component that represents the WHOLE WINDOW of the applic
 [[index.js (ServersView)]]
 [[index.js (AddServerView)]]
 [[index.js (DownloadsManagerView)]]
-[[SettingsView.tsx]]
+[[GeneralTab.tsx]]
 
 %%```mermaid
 graph TD;

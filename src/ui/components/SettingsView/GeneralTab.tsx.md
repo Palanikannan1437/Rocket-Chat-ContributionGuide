@@ -1,4 +1,5 @@
 # Settings View
+---
 
 ![[Pasted image 20220807181449.png]]
 
@@ -12,5 +13,5 @@
 - SettingsView is the parent of 4 Components
 	- [[ReportErrors.tsx]]
 	- [[FlashFrame.tsx]] 
-	- HardwareAcceleration.tsx
-	- 
+	- [[HardwareAcceleration.tsx]]
+	- [[Open Video Chat using Application Window.]]

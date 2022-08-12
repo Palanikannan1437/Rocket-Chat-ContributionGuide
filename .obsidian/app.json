@@ -1,6 +1,7 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "legacyEditor": false
 }

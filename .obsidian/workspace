@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f419d3764254210d",
+        "id": "f0f1f8ab09738c4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
+            "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350,
+    "collapsed": true
   },
   "right": {
     "id": "63b64b7c10a78d79",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
+                "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
+                "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +118,42 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/ui/components/SettingsView/features/FlashFrame.tsx.md"
+                "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md"
               }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6ff70c4312f345c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83b706807c0c00c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f419d3764254210d",
+  "active": "b4684732a668881b",
   "lastOpenFiles": [
-    "src/ui/components/SettingsView/features/ReportErrors.tsx.md",
-    "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
-    "How To Start/Untitled.md",
-    "How To Start/How to Start - Project Structure.md",
-    "How To Start/FAQs.md",
-    "src/ui/components/SettingsView/SettingsView.tsx.md",
-    "src/ui/reducers/isReportEnabled.ts.md",
-    "src/ui/reducers/isFlashFrameEnabled.ts.md",
-    "src/ui/components/Shell/index.js (Shell containing all views).md",
-    "src/ui/components/ServersView/index.js (ServersView).md"
+    "src/ui/components/SettingsView/GeneralTab.tsx.md",
+    "Open Video Chat using Application Window..md",
+    "HardwareAcceleration.tsx.md",
+    "src/app/main/App.ts.md",
+    "src/ui/components/SettingsView/Settings.tsx.md",
+    "src/ui/components/SettingsView/Certificates Tab.tsx.md",
+    "src/ui/components/SettingsView/attachments/Pasted image 20220807183536.png",
+    "src/ui/components/AddServerView/index.js (AddServerView).md",
+    "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
+    "src/ui/components/SettingsView/features/FlashFrame.tsx.md"
   ]
 }
