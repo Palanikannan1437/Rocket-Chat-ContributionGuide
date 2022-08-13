@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5330f19513cfdb12",
+        "id": "f0f1f8ab09738c4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
+            "file": "src/ui/components/DownloadsManagerView/DownloadItem.js.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350
   },
   "right": {
     "id": "63b64b7c10a78d79",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
+                "file": "src/ui/components/DownloadsManagerView/DownloadItem.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
+                "file": "src/ui/components/DownloadsManagerView/DownloadItem.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,36 +117,42 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md"
+                "file": "src/ui/components/DownloadsManagerView/DownloadItem.js.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6ff70c4312f345c6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "31211622cfd9ba47",
+            "id": "d83b706807c0c00c",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5330f19513cfdb12",
+  "active": "f0f1f8ab09738c4e",
   "lastOpenFiles": [
-    "src/ui/components/SettingsView/features/FlashFrame.tsx.md",
-    "src/ui/components/SettingsView/features/ReportErrors.tsx.md",
-    "How To Start/Untitled.md",
-    "How To Start/How to Start - Project Structure.md",
-    "How To Start/FAQs.md",
-    "src/ui/components/SettingsView/SettingsView.tsx.md",
-    "src/ui/reducers/isReportEnabled.ts.md",
-    "src/ui/reducers/isFlashFrameEnabled.ts.md",
-    "src/ui/components/Shell/index.js (Shell containing all views).md",
-    "src/ui/components/ServersView/index.js (ServersView).md"
+    "src/ui/components/DownloadsManagerView/index.js (DownloadsManagerView).md",
+    "src/ui/components/SettingsView/GeneralTab.tsx.md",
+    "Open Video Chat using Application Window..md",
+    "HardwareAcceleration.tsx.md",
+    "src/app/main/App.ts.md",
+    "src/ui/components/SettingsView/Settings.tsx.md",
+    "src/ui/components/SettingsView/Certificates Tab.tsx.md",
+    "src/ui/components/SettingsView/attachments/Pasted image 20220807183536.png",
+    "src/ui/components/AddServerView/index.js (AddServerView).md",
+    "src/ui/components/SettingsView/features/FlashFrame.tsx.md"
   ]
 }

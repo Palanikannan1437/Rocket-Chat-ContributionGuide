@@ -1,7 +1,7 @@
 ## Selectors : 
 ---
 - View Selector : currentView == "downloads"
-	- ![[Pasted image 20220811095555.png]]
+	- ![[Pasted image 20220811095555.png|650x100]]
 - Getting the last entered search term in downloads from the localStorage : 
 	- Actually it uses  `uselocalStorage`  hooks which takes :
 		- Key
@@ -14,7 +14,7 @@
 - **HandleSearchFilterChange** : Simple Function to handle the change in input values.
 
 - **serverFilterOptions** : 
-	![[Pasted image 20220812190835.png|500x300]]
+	![[Pasted image 20220812190835.png|600x300]]
 	- The objective of this function is to return a list of all existing servers from where downloads have occured
 	- The function options takes `RootState` as the argument and extracts `downloads` state to work with! 
 	- `useSelector<RootState, [string, string][]>`  means that we get the RootState as the input and we return a 2D array of form `[string, string][]`

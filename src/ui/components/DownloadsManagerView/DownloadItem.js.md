@@ -1,0 +1,18 @@
+
+## Getting the progress Size : 
+---
+```mermaid
+graph LR;
+progressSize-->Bytes_Doesnot_Exist
+progressSize-->Completed
+```
+- On the state Completed, our goal is to show the total byte size, i18n.format, formates the first argument using the second argument as format.
+ ![[Pasted image 20220813204226.png|450x100]]
+ - This particular function returns : 
+ ![[Pasted image 20220813204523.png|500x150]]
+ This means that, the first argument is used as the key and in the key you can give some parameters which will be injected inside the string key, taken from the second argument object. Refer the below example.
+
+![[Pasted image 20220813203818.png|550x150]]![[Pasted image 20220813203902.png|550x150]]
+
+## Getting the progress Speed : 
+---
